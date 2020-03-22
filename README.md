@@ -14,8 +14,8 @@ Version: 1
 * Música básica.
 * Configuración inicial de tamaño de pantalla windowed
 
-Arte y Sonido: Cobecc
-Programación: Cobecc + tutoriales de funcionamiento de clickers. 
+* Arte y Sonido: Cobecc
+* Programación: Cobecc + tutoriales de funcionamiento de clickers. 
 
 ### Programas:
 
