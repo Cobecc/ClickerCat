@@ -14,8 +14,6 @@ Version: 1
 * Música básica.
 * Configuración inicial de tamaño de pantalla windowed
 
-* Arte y Sonido: Cobecc
-* Programación: Cobecc + tutoriales de funcionamiento de clickers. 
 
 ### Programas:
 
@@ -28,3 +26,7 @@ Version: 1
 * Pantalla de inicio.
 * Menú configuración de: Sonido, resolución, guardado y carga.
 * Modificación de menú upgrades.
+
+#### Creditos:
+Arte y Sonido: Cobecc
+Programación: Cobecc + tutoriales de funcionamiento de clickers y documentación de Unity. 
